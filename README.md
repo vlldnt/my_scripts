@@ -14,7 +14,7 @@
 
  **cScript** create a new `.c` file the working directory
    - Execute with `bash bashScript` or `./bashScript`
-   - A `read -p` command is done to collect inputs to name you file [Dont forget to put the .c](#){.btn .btn-warning}
+   - A `read -p` command is done to collect inputs to name you file *(don't forgt to put the .c at the end)
    - Already in your file.c
         - header : `"main.h"`
         - 3 lines for the comments `/** * * * */ `
