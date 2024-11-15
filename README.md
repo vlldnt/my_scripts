@@ -1,4 +1,4 @@
-# HERE MY USEFULL SCRIPTS
+# Here my usefull script during the Holberton School Year
 
 ### About bashScript
 
